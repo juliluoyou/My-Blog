@@ -12,7 +12,7 @@
     <!--<version>0.0.1-SNAPSHOT</version>-->
     <!-- springboot -->
     <!--<version>1.0.1-SNAPSHOT</version>-->
-    <!-- docker -->
+    <!-- docker  s-->
     <!--<version>2.0.1-SNAPSHOT</version>-->
     <packaging>jar</packaging>
 
